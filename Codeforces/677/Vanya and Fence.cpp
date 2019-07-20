@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main(){
     int a,b,c[2000],max=0;
     cin>>a>>b;
